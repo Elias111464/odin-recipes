@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]( https://elias111464.github.io/odin-recipes/)
+[Live Demo Link](https://elias111464.github.io/odin-recipes/)
 
 ## Getting Started
 
